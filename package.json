@@ -1,0 +1,11 @@
+{
+  "name": "event_mgmt",
+  "version": "1.0.0",
+  "description": "locus's event management system",
+  "main": "eventManagement.js",
+  "scripts": {
+    "test": "mocha test/"
+  },
+  "author": "ashish satan",
+  "license": "ISC"
+}
